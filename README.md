@@ -1,0 +1,1 @@
+Função que valida cpfs usando Azure Functions dotnet 8.0 Isolated.
