@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "fn_valida_cpf": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7193",
+      "launchBrowser": false
+    }
+  }
+}
